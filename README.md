@@ -7,4 +7,6 @@
 - React Icons
 
 > The whole app is responsive from large to small screens
+
+## Here is the live link [Click me](https://gericht-restaurant-landing.netlify.app/)
  
