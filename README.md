@@ -7,5 +7,4 @@
 - React Icons
 
 > The whole app is responsive from large to small screens
-
-[## Here is the live link:] www.xyz.com 
+ 
