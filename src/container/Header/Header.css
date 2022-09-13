@@ -1,0 +1,35 @@
+.app__header {
+  background-color: var(--color-black);
+}
+
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  line-height: 117px;
+  font-size: 90px;
+}
+
+.app__header-img img {
+  width: 80%;
+}
+
+/* Media queries */
+
+@media screen and (min-width: 650px) and (max-width: 1149px) {
+  .app__wrapper_info {
+    padding-top: 3rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .app__wrapper_info {
+    padding-top: 1.5rem;
+  }
+
+  .app__header-h1 {
+    font-size: 72px;
+    line-height: normal;
+  }
+}
